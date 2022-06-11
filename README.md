@@ -1,13 +1,7 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Projeto Javascript - Bootcamp DIO :computer:
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um jogo da memória com a temática de Super Mario! 
+Essa aplicação foi realizada durante o projeto de javascript do bootcamp TQI Fullstack Developer do site dio.me
 
-### Os requisitos são:
+## Technical Details :page_with_curl:
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
- 
-
-
-## 🚀 Let's code! 🚀
+- Front-end Languages: HTML + CSS3 + Javascript

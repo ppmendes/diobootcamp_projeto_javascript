@@ -22,7 +22,7 @@ function flipCard() {
 
 //função que checa se as cartas são iguais
 function checkForMatch() {
-    if(firstCard.dataset.card === secondCard.dataset.card) {
+    if(firstCard.dataset.cardTeste === secondCard.dataset.cardTeste) {
         disableCards();
         return;
     }
